@@ -77,7 +77,7 @@ export default function CharacterProfile() {
                   <motion.div 
                     initial={{ width: 0 }}
                     whileInView={{ width: `${stat.value}%` }}
-                    viewport={{ once: true, margin: "-10%" }}
+                    viewport={{ once: true }}
                     transition={{ duration: 1.5, delay: 0.1 * index, ease: "easeOut" }}
                     className="h-full bg-gold rounded-full"
                   />
