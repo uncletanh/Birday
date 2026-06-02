@@ -1,0 +1,146 @@
+{
+  "entrance": {
+    "specialExhibition": "Special Exhibition",
+    "title1": "THE BIRTHDAY",
+    "title2": "EXHIBITION",
+    "subtitle": "A one-day exhibition celebrating an extraordinary person.",
+    "visitorCount": "Visitor Count",
+    "you": "You",
+    "openingDate": "Opening Date",
+    "curator": "Curator",
+    "curatorName": "A man",
+    "enter": "Enter Exhibition"
+  },
+  "curatorsNote": {
+    "title": "Curator's Note",
+    "p1": "\"This exhibition is created to honor a resilient, independent, and ambitious girl.\"",
+    "p2": "A girl who dared to pack her bags and travel to a distant land to chase her dreams, passing through countless cities and leaving the brightest footprints of her youth. Happy 27th Birthday, Hanh Nguyen."
+  },
+  "profile": {
+    "name": "Hanh Nguyen",
+    "level": "Level 27 • Limited Edition",
+    "specialSkills": "Special Skills",
+    "specialSkillsDesc": "Surviving in a billion-people country, Wanderlust, Taming stubborn students.",
+    "favoriteThings": "Favorite Things",
+    "favoriteThingsDesc": "Eat clean in the morning - feast at night, Exploring new cities, Cotti Coffee & Pastries.",
+    "funFacts": "Fun Facts",
+    "funFactsDesc": "Set foot in 12 major Chinese cities; Used to be a tutor but was too gentle to ask for tuition fees.",
+    "coreStats": "Core Stats",
+    "statStrong": "Strength",
+    "statCute": "Cutie",
+    "statOptimistic": "Optimism",
+    "statDedicated": "Dedication",
+    "statEnergy": "Energy",
+    "photoPlaceholder": "[Portrait Photo]"
+  },
+  "traits": {
+    "title1": "Hall of Appreciation",
+    "title2": "Brilliant Traits",
+    "t1Title": "Strong & Independent",
+    "t1Desc": "Dared to study alone in Suzhou, wandering to see seagulls in Qingdao even when it was freezing enough to get frostbite.",
+    "t2Title": "Cute & Silly",
+    "t2Desc": "Loves to play along with silly jokes, smoothly transitioning from pretending to be ChatGPT to sharing early-morning laughs.",
+    "t3Title": "Dedicated & Warm",
+    "t3Desc": "A gentle teacher who loves her students so much she'd rather take the loss than be harsh on them.",
+    "t4Title": "Thoughtful",
+    "t4Desc": "Delicately notices others' intentions from the smallest details. Always offers sincere, insightful compliments and effortlessly turns any conversation into a positive, joyful experience.",
+    "t5Title": "Always Optimistic",
+    "t5Desc": "Whether sick, exhausted, or rushing across Hanoi districts, she always maintains a cheerful and positive attitude.",
+    "t6Title": "Surrendering to Sweets",
+    "t6Desc": "Despite having 0 survival instinct against food poisoning, this girl still can't resist the temptation of sweets and milk tea."
+  },
+  "timeline": {
+    "gallery": "Timeline Gallery",
+    "title": "Journey & Milestones",
+    "readMore": "Read more →",
+    "photoPlaceholder": "[Insert Memory Photo Here]",
+    "m1Date": "Before 2024",
+    "m1Title": "Criss-crossing Hanoi",
+    "m1Story": "There was a time when this girl didn't mind the exhausting rides across multiple districts in Hanoi just to teach. A gentle teacher who couldn't bear to be strict when her students were stubborn. Her dedication surely made her the 'White Moonlight' in the hearts of those kids.",
+    "m2Date": "10/03/2024",
+    "m2Title": "A Flight of Ambitions",
+    "m2Story": "October 3, 2024, marked a brave milestone when she officially arrived at Soochow University. Leaving the familiarity of Vietnam to embrace the life of an international student, she started her independent journey in a completely strange place, handling everything herself and overcoming initial language and cultural barriers.",
+    "m3Date": "2024 - 2026",
+    "m3Title": "A Passport of Youth",
+    "m3Story": "In less than 2 years, this little girl has traveled and explored countless lands: Hangzhou, Shanghai, Suzhou, Beijing, Tianjin, Wuxi, Changzhou, Guangzhou, Nanjing, Qingdao, Ningbo. Whether it's the freezing cold in Qingdao to see seagulls or the bustling streets of Shanghai, every place preserves her freedom and bravery.",
+    "m4Date": "March 2026",
+    "m4Title": "Smiling through 'Chaos'",
+    "m4Story": "Living abroad sometimes means struggling with spicy, greasy food when all you crave is boiled veggies, or enduring stomachaches and unexpected food poisoning. Yet, faced with any trouble, she is always seen handling things with a cheerful, witty attitude and a radiant smile."
+  },
+  "soundtrack": {
+    "tag": "The Soundtrack Collection",
+    "title": "Four Pieces of Music",
+    "desc": "Inspired by different moments throughout the year. Please listen to all four tracks to unlock a special exhibit.",
+    "openYoutube": "Open in YouTube ↗",
+    "s1Title": "Track 01",
+    "s1Artist": "Song No. 1",
+    "s1Desc": "Music always has a way of telling memories in the most authentic way. Hope this melody brings you peace.",
+    "s2Title": "Track 02",
+    "s2Artist": "Song No. 2",
+    "s2Desc": "Whenever you feel tired or pressured by life in a foreign land, turn on this song and relax.",
+    "s3Title": "Track 03",
+    "s3Artist": "Song No. 3",
+    "s3Desc": "A little positive energy for those days you spend exploring new cities.",
+    "s4Title": "Track 04",
+    "s4Artist": "Song No. 4",
+    "s4Desc": "The final melody wrapping up the collection, also serving as the brightest wish for your 27th birthday."
+  },
+  "quiz": {
+    "tag": "The HSK & Suzhou Challenge",
+    "title": "Language Survey",
+    "subtitle": "Answer these 4 questions correctly to unlock the Secret Corner!",
+    "correct": "Correct!",
+    "wrong": "Wrong!",
+    "next": "Next Question",
+    "viewResult": "View Results",
+    "perfect": "Perfect!",
+    "tooBad": "Too bad!",
+    "passedMsg": "As expected of HSK 5! The Secret Corner is now unlocked.",
+    "failedMsg": "You need 100% to pass. Slipped your finger? Try again!",
+    "enterSecret": "Enter Secret Corner",
+    "tryAgain": "Try Again"
+  },
+  "hidden": {
+    "tag": "Hidden Gallery",
+    "title": "Secret Corner",
+    "subtitle": "This area is only open once you successfully pass the 4/4 test.",
+    "lockedMsg": "The password is sincerity. Let the music guide you before entering.",
+    "item1": "Old Photo Frame",
+    "item1Desc": "Some moments can only be looked back on, but the feelings remain intact forever.",
+    "item2": "Unsent Letter",
+    "item2Desc": "A few lines written down but never sent. Kept exclusively for this exhibition.",
+    "item3": "A Keepsake",
+    "item3Desc": "A small token carrying a big story. Understood only by the two of us."
+  },
+  "footprints": {
+    "title": "Footprints on the Map",
+    "subtitle": "12 cities, countless memories, and unforgettable experiences."
+  },
+  "visualArchives": {
+    "title": "Visual Archives",
+    "subtitle": "Scroll horizontally to view the corridor of memories",
+    "photoPlaceholder": "[Archive Photo]"
+  },
+  "mindset": {
+    "title": "Life Mottos & Silliness",
+    "subtitle": "Extracted directly from real conversations.",
+    "q1": "\"Tonight I only ate a little cake and drank a little milk tea\"",
+    "q2": "\"Still maintaining a pace of going to the bathroom every 20 minutes\"",
+    "q3": "\"Since I'm already in the Chinese study momentum, I'll just keep pushing\"",
+    "q4": "\"But whenever I open writing, I get a headache, dizzy, and nauseous\"",
+    "q5": "\"From one surprise to another\""
+  },
+  "closing": {
+    "end": "THE END",
+    "message": "Thank you for being a part of this story.",
+    "wishes": "Wishing you a new age full of joy and happiness."
+  },
+  "language": {
+    "selectTitle": "Choose your language",
+    "selectSubtitle": "Chọn ngôn ngữ của bạn / 选择您的语言",
+    "enter": "Continue",
+    "vi": "Tiếng Việt",
+    "en": "English",
+    "zh": "中文 (简体)"
+  }
+}

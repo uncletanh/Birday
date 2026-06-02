@@ -1,0 +1,146 @@
+{
+  "entrance": {
+    "specialExhibition": "Triển Lãm Đặc Biệt",
+    "title1": "TRIỂN LÃM",
+    "title2": "SINH NHẬT",
+    "subtitle": "Một buổi triển lãm thu nhỏ tôn vinh một người đặc biệt.",
+    "visitorCount": "Lượt khách",
+    "you": "Là Bạn",
+    "openingDate": "Ngày mở cửa",
+    "curator": "Người tổ chức",
+    "curatorName": "Một chàng trai",
+    "enter": "Bắt Đầu Tham Quan"
+  },
+  "curatorsNote": {
+    "title": "Curator's Note",
+    "p1": "\"Triển lãm này được tạo ra để tôn vinh một cô gái kiên cường, độc lập và luôn tràn đầy hoài bão.\"",
+    "p2": "Một người con gái dám xách vali đi đến một vùng đất xa xôi để theo đuổi ước mơ, đi qua vô số thành phố và để lại những dấu chân rực rỡ nhất của thanh xuân. Chúc mừng sinh nhật tuổi 27, Hạnh Nguyên."
+  },
+  "profile": {
+    "name": "Hạnh Nguyên",
+    "level": "Level 27 • Phiên bản giới hạn",
+    "specialSkills": "Kỹ năng đặc biệt",
+    "specialSkillsDesc": "Sinh tồn ở đất nước tỷ dân, Mê xê dịch, Thu phục học sinh bướng bỉnh.",
+    "favoriteThings": "Sở thích",
+    "favoriteThingsDesc": "Eat clean buổi sáng - xả láng về đêm, Khám phá những thành phố mới, Cotti Coffee & Bánh ngọt.",
+    "funFacts": "Sự thật thú vị",
+    "funFactsDesc": "Đã đặt chân đến 12 thành phố lớn của Trung Quốc; Từng làm gia sư nhưng hiền quá toàn quên đòi tiền.",
+    "coreStats": "Chỉ số cốt lõi",
+    "statStrong": "Mạnh mẽ",
+    "statCute": "Đáng yêu",
+    "statOptimistic": "Lạc quan",
+    "statDedicated": "Tận tâm",
+    "statEnergy": "Năng lượng",
+    "photoPlaceholder": "[Ảnh chân dung]"
+  },
+  "traits": {
+    "title1": "Hall of Appreciation",
+    "title2": "Những nét tính cách rực rỡ",
+    "t1Title": "Mạnh mẽ & Tự lập",
+    "t1Desc": "Dám một mình đi du học ở Tô Châu, rong ruổi ngắm hải âu ở Thanh Đảo dù thời tiết lạnh cóng đến mức bỏng lạnh cả tay.",
+    "t2Title": "Đáng yêu & Vô tri",
+    "t2Desc": "Rất hay hùa theo những trò đùa vô tri, tung hứng mượt mà từ việc giả làm ChatGPT đến những mẩu chuyện cười lúc rạng sáng.",
+    "t3Title": "Tận tâm & Ấm áp",
+    "t3Desc": "Một cô giáo/gia sư hiền lành, yêu thương học sinh đến mức thà chịu thiệt chứ không nỡ dữ dằn với các em.",
+    "t4Title": "Tinh tế",
+    "t4Desc": "Tinh tế nhận ra tâm ý người khác từ những điều nhỏ nhất. Luôn dành những lời khen chân thành, sâu sắc đúng trọng tâm và biết cách khéo léo biến mọi câu chuyện trở nên tích cực, vui vẻ.",
+    "t5Title": "Luôn lạc quan",
+    "t5Desc": "Dù ốm, mệt, hay phải chạy show qua mấy quận Hà Nội, lúc nào cũng giữ được thái độ vui vẻ, tích cực.",
+    "t6Title": "Chịu thua đồ ngọt",
+    "t6Desc": "Dù survival instinct = 0 trước ngộ độc thực phẩm, nhưng cô gái này vẫn không thể vượt qua cám dỗ của đồ ngọt và trà sữa."
+  },
+  "timeline": {
+    "gallery": "Timeline Gallery",
+    "title": "Hành trình & Dấu mốc",
+    "readMore": "Xem thêm →",
+    "photoPlaceholder": "[Chèn ảnh kỷ niệm vào đây]",
+    "m1Date": "Trước 2024",
+    "m1Title": "Những chặng đường ngang dọc Hà Nội",
+    "m1Story": "Từng có một khoảng thời gian, cô gái ấy không ngại vất vả chạy xe qua lại giữa nhiều quận ở Hà Nội chỉ để đi dạy. Một cô giáo hiền lành, thương học sinh đến mức nương tay mỗi khi chúng bướng bỉnh. Sự tận tâm ấy chắc chắn đã biến cô thành \"bạch nguyệt quang\" trong lòng những đứa trẻ từng được cô dạy dỗ.",
+    "m2Date": "03/10/2024",
+    "m2Title": "Chuyến bay mang theo hoài bão",
+    "m2Story": "Ngày 3/10/2024 đánh dấu một cột mốc dũng cảm khi cô chính thức đặt chân đến Đại học Tô Châu (Soochow University). Rời xa sự quen thuộc ở Việt Nam để bước vào cuộc sống du học sinh, bắt đầu hành trình tự lập ở một nơi hoàn toàn xa lạ, tự lo liệu mọi thứ và vượt qua những rào cản ngôn ngữ, văn hoá ban đầu.",
+    "m3Date": "2024 - 2026",
+    "m3Title": "Cuốn hộ chiếu rực rỡ thanh xuân",
+    "m3Story": "Chỉ trong vòng gần 2 năm, cô gái nhỏ bé ấy đã đi qua và khám phá vô số vùng đất: Hàng Châu, Thượng Hải, Tô Châu, Bắc Kinh, Thiên Tân, Vô Tích, Thường Châu, Quảng Châu, Nam Kinh, Thanh Đảo, Ninh Ba. Dù là cái lạnh tê buốt ở Thanh Đảo để ngắm hải âu, hay sự nhộn nhịp của Thượng Hải, mọi nơi đều lưu giữ sự tự do và dũng cảm của cô.",
+    "m4Date": "Tháng 3/2026",
+    "m4Title": "Nụ cười trước mọi \"bất ổn\"",
+    "m4Story": "Sống ở nước ngoài đôi khi là phải vật lộn với đồ ăn cay nóng, nhiều dầu mỡ khi bản thân chỉ thèm đĩa rau luộc; hay trải qua những trận đau dạ dày, ngộ độc thực phẩm bất đắc dĩ. Nhưng đứng trước bất kỳ rắc rối nào, người ta vẫn luôn thấy cô ấy nhìn nhận vấn đề bằng một thái độ vô cùng vui vẻ, tếu táo và một nụ cười rạng rỡ."
+  },
+  "soundtrack": {
+    "tag": "The Soundtrack Collection",
+    "title": "Four Pieces of Music",
+    "desc": "Inspired by different moments throughout the year. Please listen to all four tracks to unlock a special exhibit.",
+    "openYoutube": "Open in YouTube ↗",
+    "s1Title": "Flowers of Suzhou",
+    "s1Artist": "苏州的花",
+    "s1Desc": "Mùa hoa ở Tô Châu đã nở trở lại chưa? Một bản nhạc mang theo nỗi nhớ về mùa xuân nơi phố cũ, cùng hi vọng được ngắm hoa thêm một lần nữa.",
+    "s2Title": "Gentle Ripples on West Lake",
+    "s2Artist": "西湖微澜",
+    "s2Desc": "Sương sớm Tây Hồ lành lạnh, mưa khói Hàng Châu gột rửa muộn phiền. Tiếng đàn dẫu dồn dập, lòng hồ vẫn ôm trọn một sự bình yên.",
+    "s3Title": "Rainy Night in Wuzhen",
+    "s3Artist": "乌镇夜雨",
+    "s3Desc": "Đêm mưa Ô Trấn rỉ rả khiến người ta quên cả lối về. Một thị trấn mà dường như thời gian cũng đã bỏ quên, cất giữ bao mộng tưởng Giang Nam.",
+    "s4Title": "Lights of Qinhuai",
+    "s4Artist": "秦淮灯火",
+    "s4Desc": "Ánh đèn Tần Hoài thắp lên vẻ phồn hoa của đêm Nam Kinh. Một bản nhạc hào hùng mạnh mẽ, như dũng khí đối mặt với thăng trầm cuộc sống."
+  },
+  "quiz": {
+    "tag": "The HSK & Suzhou Challenge",
+    "title": "Khảo sát năng lực",
+    "subtitle": "Vì HSK 5 quá dễ, hãy trả lời đúng 4 câu hỏi này để mở khóa Góc Bí Mật nhé!",
+    "correct": "Chính xác!",
+    "wrong": "Sai rồi!",
+    "next": "Câu tiếp theo",
+    "viewResult": "Xem kết quả",
+    "perfect": "Hoàn hảo!",
+    "tooBad": "Tiếc quá!",
+    "passedMsg": "Thực lực HSK 5 có khác! Góc Bí Mật đã được mở khóa dành riêng cho bạn.",
+    "failedMsg": "Phải trả lời đúng 100% cơ. Hình như lúc nãy vô tình bấm nhầm đúng không? Thử lại nhé!",
+    "enterSecret": "Tiến vào Góc Bí Mật",
+    "tryAgain": "Thử lại ngay"
+  },
+  "hidden": {
+    "tag": "Hidden Gallery",
+    "title": "Góc Bí Mật",
+    "subtitle": "Khu vực này chỉ mở khi bạn giải thành công bài kiểm tra 4/4.",
+    "lockedMsg": "Mật mã là sự chân thành. Hãy để âm nhạc dẫn lối trước khi bước vào.",
+    "item1": "Khung Ảnh Cũ",
+    "item1Desc": "Có những khoảnh khắc chỉ có thể nhìn lại, nhưng cảm xúc thì mãi nguyên vẹn.",
+    "item2": "Lá Thư Chưa Gửi",
+    "item2Desc": "Vài dòng tâm sự được viết ra nhưng chưa từng gửi đi. Giữ riêng cho triển lãm này.",
+    "item3": "Món Đồ Kỷ Niệm",
+    "item3Desc": "Một kỷ vật nhỏ mang theo một câu chuyện lớn. Chỉ hai người mới hiểu."
+  },
+  "footprints": {
+    "title": "Dấu chân trên bản đồ",
+    "subtitle": "12 thành phố, vô số kỷ niệm và những trải nghiệm không thể quên."
+  },
+  "visualArchives": {
+    "title": "Visual Archives",
+    "subtitle": "Cuộn ngang để xem hành lang ký ức",
+    "photoPlaceholder": "[Ảnh lưu trữ]"
+  },
+  "mindset": {
+    "title": "Châm ngôn sống & Sự vô tri",
+    "subtitle": "Trích xuất trực tiếp từ các cuộc hội thoại.",
+    "q1": "\"Tối h c ăn có xíu bánh ngọt với uống tí tsua z thoi\"",
+    "q2": "\"Nếu được chọn một nơi để sinh sống và làm việc...\"",
+    "q3": "\"Đang vào guồng tiếng Trung r thì cứ cố dzị\"",
+    "q4": "\"Mà cứ mở writing là đau đầu chóng mặt buồn nôn\"",
+    "q5": "\"Từ bất ngờ này sang bất ngờ khác\""
+  },
+  "closing": {
+    "end": "THE END",
+    "message": "Cảm ơn chị vì đã là một phần của câu chuyện này.",
+    "wishes": "Chúc chị tuổi mới thật nhiều niềm vui và hạnh phúc."
+  },
+  "language": {
+    "selectTitle": "Choose your language",
+    "selectSubtitle": "Chọn ngôn ngữ của bạn / 选择您的语言",
+    "enter": "Continue",
+    "vi": "Tiếng Việt",
+    "en": "English",
+    "zh": "中文 (简体)"
+  }
+}

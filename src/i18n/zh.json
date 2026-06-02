@@ -1,0 +1,146 @@
+{
+  "entrance": {
+    "specialExhibition": "特别展览",
+    "title1": "生日",
+    "title2": "展览",
+    "subtitle": "为一位非凡的人举办的迷你展览。",
+    "visitorCount": "访客",
+    "you": "就是你",
+    "openingDate": "开幕日期",
+    "curator": "策展人",
+    "curatorName": "一个男孩",
+    "enter": "进入展览"
+  },
+  "curatorsNote": {
+    "title": "策展人寄语",
+    "p1": "\"这个展览是为了致敬一个坚强、独立且充满抱负的女孩。\"",
+    "p2": "一个敢于提着行李箱前往远方追逐梦想，走过无数城市，留下青春最耀眼足迹的女孩。祝汉源（Hanh Nguyen）27岁生日快乐。"
+  },
+  "profile": {
+    "name": "Hanh Nguyen",
+    "level": "Level 27 • 限量版",
+    "specialSkills": "特殊技能",
+    "specialSkillsDesc": "在十亿人口的国度生存、热爱旅行、收服顽皮的学生。",
+    "favoriteThings": "爱好",
+    "favoriteThingsDesc": "早上轻食，晚上放飞自我、探索新城市、库迪咖啡 (Cotti Coffee) 与甜点。",
+    "funFacts": "趣闻",
+    "funFactsDesc": "已踏足中国12个大城市；曾做过家教但因为太温柔而不好意思收学费。",
+    "coreStats": "核心属性",
+    "statStrong": "坚强",
+    "statCute": "可爱",
+    "statOptimistic": "乐观",
+    "statDedicated": "专注",
+    "statEnergy": "活力",
+    "photoPlaceholder": "[肖像照片]"
+  },
+  "traits": {
+    "title1": "Hall of Appreciation",
+    "title2": "闪耀的特质",
+    "t1Title": "坚强独立",
+    "t1Desc": "敢于独自在苏州留学，甚至在冷到手快冻伤的天气里跑到青岛看海鸥。",
+    "t2Title": "可爱无厘头",
+    "t2Desc": "总是配合那些无厘头的玩笑，从假装ChatGPT到凌晨的笑话都能应对自如。",
+    "t3Title": "专注温暖",
+    "t3Desc": "一位温柔的老师，非常疼爱学生，宁愿自己吃亏也不忍心对他们严厉。",
+    "t4Title": "体贴入微",
+    "t4Desc": "能从最细微处敏锐察觉他人的心意。总是给予真诚、深刻的赞美，并巧妙地将任何对话都转化为积极、愉快的体验。",
+    "t5Title": "永远乐观",
+    "t5Desc": "无论是生病、疲惫，还是在河内各个区之间奔波，总是保持快乐积极的态度。",
+    "t6Title": "向甜食屈服",
+    "t6Desc": "面对食物中毒时生存本能为0，但这个女孩依然无法抗拒甜点和奶茶的诱惑。"
+  },
+  "timeline": {
+    "gallery": "Timeline Gallery",
+    "title": "旅程与里程碑",
+    "readMore": "阅读更多 →",
+    "photoPlaceholder": "[在此插入纪念照片]",
+    "m1Date": "2024年之前",
+    "m1Title": "纵横河内的岁月",
+    "m1Story": "曾经有一段时间，这个女孩不辞辛劳地在河内的多个区之间奔波，只为了去教书。她是一位温柔的老师，在学生顽皮时也不忍心苛责。这份专注与付出，必定让她成为那些孩子们心中的“白月光”。",
+    "m2Date": "2024年10月03日",
+    "m2Title": "承载抱负的航班",
+    "m2Story": "2024年10月3日标志着一个勇敢的里程碑，她正式踏入了苏州大学（Soochow University）。离开熟悉的越南，拥抱留学生的生活，在一个完全陌生的地方开始她独立的旅程，自己打理一切，并克服了最初的语言和文化障碍。",
+    "m3Date": "2024 - 2026",
+    "m3Title": "青春的护照",
+    "m3Story": "在不到两年的时间里，这个小女孩已经游历并探索了无数的地方：杭州、上海、苏州、北京、天津、无锡、常州、广州、南京、青岛、宁波。无论是在青岛冒着严寒看海鸥，还是在上海体验繁华，每一个地方都留下了她自由与勇敢的印记。",
+    "m4Date": "2026年3月",
+    "m4Title": "笑对“风雨”",
+    "m4Story": "在异国他乡生活，有时意味着在只想吃水煮蔬菜时却不得不面对辛辣油腻的食物，或者是忍受胃痛和突如其来的食物中毒。然而，面对任何麻烦，人们总能看到她用愉快、幽默的态度和灿烂的笑容去应对。"
+  },
+  "soundtrack": {
+    "tag": "The Soundtrack Collection",
+    "title": "四首乐曲",
+    "desc": "灵感来自于一年中不同的时刻。请听完所有四首歌曲以解锁特别展览。",
+    "openYoutube": "在YouTube打开 ↗",
+    "s1Title": "Track 01",
+    "s1Artist": "第一首",
+    "s1Desc": "音乐总是能以最真实的方式讲述回忆。希望这首旋律能给你带来平静。",
+    "s2Title": "Track 02",
+    "s2Artist": "第二首",
+    "s2Desc": "当你在异国他乡感到疲惫或压力时，请播放这首歌，放松一下。",
+    "s3Title": "Track 03",
+    "s3Artist": "第三首",
+    "s3Desc": "为你探索新城市的那几天，注入一点积极的能量。",
+    "s4Title": "Track 04",
+    "s4Artist": "第四首",
+    "s4Desc": "作为合集的最后一首旋律，也是为你27岁生日送上最闪耀的祝福。"
+  },
+  "quiz": {
+    "tag": "The HSK & Suzhou Challenge",
+    "title": "能力小测验",
+    "subtitle": "请正确回答这4个问题以解锁秘密角落！",
+    "correct": "正确！",
+    "wrong": "错了！",
+    "next": "下一题",
+    "viewResult": "查看结果",
+    "perfect": "完美！",
+    "tooBad": "太可惜了！",
+    "passedMsg": "不愧是HSK 5级实力！秘密角落已为您解锁。",
+    "failedMsg": "必须要100%正确哦。刚才是不是不小心按错了？再试一次吧！",
+    "enterSecret": "进入秘密角落",
+    "tryAgain": "再试一次"
+  },
+  "hidden": {
+    "tag": "Hidden Gallery",
+    "title": "秘密角落",
+    "subtitle": "这个区域只有在你成功通过4/4测验后才会开放。",
+    "lockedMsg": "密码是真诚。进入前请让音乐指引你。",
+    "item1": "旧相框",
+    "item1Desc": "有些瞬间只能回望，但那份情感将永远完整。",
+    "item2": "未寄出的信",
+    "item2Desc": "写下却从未寄出的几行心事。专为此展览保留。",
+    "item3": "一件纪念品",
+    "item3Desc": "承载着大故事的小物件。只有我们两个人懂。"
+  },
+  "footprints": {
+    "title": "地图上的足迹",
+    "subtitle": "12个城市，无数的回忆和难忘的经历。"
+  },
+  "visualArchives": {
+    "title": "影像档案室",
+    "subtitle": "横向滚动以查看记忆长廊",
+    "photoPlaceholder": "[档案照片]"
+  },
+  "mindset": {
+    "title": "人生格言与无厘头",
+    "subtitle": "直接摘自真实的聊天记录。",
+    "q1": "\"今晚我只吃了一点蛋糕，喝了一点奶茶而已\"",
+    "q2": "\"依然保持着每20分钟跑一次厕所的配速\"",
+    "q3": "\"既然已经进入了学中文的节奏，那就继续努力吧\"",
+    "q4": "\"但是一打开写作，我就头痛、头晕、恶心\"",
+    "q5": "\"从一个惊喜到另一个惊喜\""
+  },
+  "closing": {
+    "end": "THE END",
+    "message": "感谢你成为这个故事的一部分。",
+    "wishes": "祝你新的一岁充满欢乐与幸福。"
+  },
+  "language": {
+    "selectTitle": "Choose your language",
+    "selectSubtitle": "Chọn ngôn ngữ của bạn / 选择您的语言",
+    "enter": "Continue",
+    "vi": "Tiếng Việt",
+    "en": "English",
+    "zh": "中文 (简体)"
+  }
+}
