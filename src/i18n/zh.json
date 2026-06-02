@@ -141,6 +141,10 @@
     "enter": "Continue",
     "vi": "Tiếng Việt",
     "en": "English",
-    "zh": "中文 (简体)"
+    "zh": "中文 (简体)",
+    "musicTitle": "你想来点背景音乐吗？",
+    "musicDesc": "有音乐相伴，展览体验会更加完美。",
+    "musicYes": "是的，播放音乐",
+    "musicNo": "不用了，谢谢"
   }
 }

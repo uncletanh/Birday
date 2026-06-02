@@ -141,6 +141,10 @@
     "enter": "Continue",
     "vi": "Tiếng Việt",
     "en": "English",
-    "zh": "中文 (简体)"
+    "zh": "中文 (简体)",
+    "musicTitle": "Would you like some background music?",
+    "musicDesc": "The exhibition experience is best enjoyed with music.",
+    "musicYes": "Yes, play music",
+    "musicNo": "No, thanks"
   }
 }

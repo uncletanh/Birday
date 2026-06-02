@@ -121,11 +121,11 @@ export default function LanguageSelectionOverlay() {
             ) : (
               <>
                 <Music size={48} className="text-gold mb-6 opacity-80" />
-                <h1 className="text-3xl font-serif mb-4 text-warm-white text-center max-w-md">
-                  Bạn có muốn thêm chút nhạc nền không?
+                <h1 className="text-3xl font-serif mb-4 text-warm-white text-center max-w-md px-4">
+                  {t('language.musicTitle')}
                 </h1>
-                <p className="text-warm-white/50 mb-12 text-center max-w-sm">
-                  Trải nghiệm triển lãm sẽ trọn vẹn hơn khi có âm nhạc đồng hành.
+                <p className="text-warm-white/50 mb-12 text-center max-w-sm px-4">
+                  {t('language.musicDesc')}
                 </p>
 
                 <div className="flex flex-col gap-4 w-64">
@@ -133,13 +133,13 @@ export default function LanguageSelectionOverlay() {
                     onClick={() => handleStart(true)}
                     className="p-4 rounded border border-gold bg-gold/10 text-gold transition-all hover:bg-gold hover:text-background font-medium"
                   >
-                    Có, bật nhạc
+                    {t('language.musicYes')}
                   </button>
                   <button 
                     onClick={() => handleStart(false)}
                     className="p-4 rounded border border-warm-white/20 text-warm-white/70 hover:border-warm-white/50 transition-all"
                   >
-                    Không, cảm ơn
+                    {t('language.musicNo')}
                   </button>
                 </div>
               </>
