@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useScroll, useTransform } from "framer-motion";
+import { motion, useScroll, useTransform, useSpring } from "framer-motion";
 import { useRef } from "react";
 import { useLanguage } from "@/context/LanguageContext";
 
@@ -11,7 +11,13 @@ export default function VisualArchives() {
     target: targetRef,
   });
 
-  const x = useTransform(scrollYProgress, [0, 1], ["0%", "-75%"]);
+  const smoothProgress = useSpring(scrollYProgress, {
+    stiffness: 100,
+    damping: 30,
+    restDelta: 0.001
+  });
+
+  const x = useTransform(smoothProgress, [0, 1], ["0%", "-75%"]);
 
   const images = [
     "/images/gallery/Chiết Giang.png",
@@ -26,14 +32,14 @@ export default function VisualArchives() {
 
   return (
     <section ref={targetRef} className="relative h-[300vh] bg-background">
-      <div className="sticky top-0 h-screen flex items-center overflow-hidden">
+      <div className="sticky top-0 h-[100svh] flex items-center overflow-hidden">
         
         <div className="absolute top-12 left-6 md:left-12 z-10">
           <h3 className="font-serif text-3xl md:text-5xl text-warm-white mb-2">{t('visualArchives.title')}</h3>
           <p className="text-warm-white/50">{t('visualArchives.subtitle')} →</p>
         </div>
 
-        <motion.div style={{ x }} className="flex gap-8 px-6 md:px-12 mt-32 md:mt-40">
+        <motion.div style={{ x }} className="flex gap-8 px-6 md:px-12 mt-32 md:mt-40 will-change-transform">
           {images.map((imgSrc, index) => (
             <div 
               key={index}
