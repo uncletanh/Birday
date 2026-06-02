@@ -13,8 +13,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "The Birthday Exhibition",
-  description: "A one-day exhibition celebrating an extraordinary person.",
+  title: "Có một tin nhắn chưa đọc...",
+  description: "Bấm vào để xem chi tiết nhé.",
 };
 
 export default function RootLayout({
