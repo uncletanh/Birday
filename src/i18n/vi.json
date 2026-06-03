@@ -133,7 +133,8 @@
   "closing": {
     "end": "THE END",
     "message": "Cảm ơn chị vì đã là một phần của câu chuyện này.",
-    "wishes": "Chúc chị tuổi mới thật nhiều niềm vui và hạnh phúc."
+    "wishes": "Chúc chị tuổi mới thật nhiều niềm vui và hạnh phúc.",
+    "openGift": "Mở Quà"
   },
   "language": {
     "selectTitle": "Choose your language",
@@ -145,6 +146,14 @@
     "musicTitle": "Bạn có muốn thêm chút nhạc nền không?",
     "musicDesc": "Trải nghiệm triển lãm sẽ trọn vẹn hơn khi có âm nhạc đồng hành.",
     "musicYes": "Có, bật nhạc",
-    "musicNo": "Không, cảm ơn"
+    "musicNo": "Không, cảm ơn",
+    "themeTitle": "Chọn phong cách",
+    "themeDesc": "Mỗi màu sắc mang một cảm xúc riêng. Bạn có thể thay đổi lại sau.",
+    "themeDark": "Nguyên bản",
+    "themeMagnolia": "Mộc Lan",
+    "themePorcelain": "Thanh Hoa",
+    "themeAutumn": "Nắng Thu",
+    "themeJade": "Ngọc Bích",
+    "enterMuseum": "Tiến vào Triển lãm"
   }
 }

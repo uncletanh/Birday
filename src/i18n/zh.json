@@ -133,7 +133,8 @@
   "closing": {
     "end": "THE END",
     "message": "感谢你成为这个故事的一部分。",
-    "wishes": "祝你新的一岁充满欢乐与幸福。"
+    "wishes": "祝你新的一岁充满欢乐与幸福。",
+    "openGift": "拆开礼物"
   },
   "language": {
     "selectTitle": "Choose your language",
@@ -145,6 +146,14 @@
     "musicTitle": "你想来点背景音乐吗？",
     "musicDesc": "有音乐相伴，展览体验会更加完美。",
     "musicYes": "是的，播放音乐",
-    "musicNo": "不用了，谢谢"
+    "musicNo": "不用了，谢谢",
+    "themeTitle": "选择主题",
+    "themeDesc": "每种颜色都承载着一种情感。您可以随时更改。",
+    "themeDark": "原版 (暗色)",
+    "themeMagnolia": "木兰 (粉色)",
+    "themePorcelain": "青花瓷 (蓝色)",
+    "themeAutumn": "秋日 (黄色)",
+    "themeJade": "玉石 (绿色)",
+    "enterMuseum": "进入展览"
   }
 }

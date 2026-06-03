@@ -17,7 +17,7 @@ export default function HiddenGallery() {
   ];
 
   return (
-    <section id="hidden-gallery" className="min-h-screen w-full py-24 px-6 relative overflow-hidden bg-[#050505]">
+    <section id="hidden-gallery" className="min-h-screen w-full py-24 px-6 relative overflow-hidden bg-background">
       {/* Background Glow */}
       <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-full max-w-3xl h-[500px] bg-gold/5 blur-[120px] rounded-full pointer-events-none" />
 
@@ -61,7 +61,7 @@ export default function HiddenGallery() {
           >
             {/* The Unsent Letter */}
             <div className="max-w-4xl mx-auto w-full bg-warm-white/[0.03] border border-gold/20 p-8 md:p-16 rounded-2xl backdrop-blur-sm relative shadow-[0_0_50px_rgba(212,175,55,0.05)]">
-              <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-[#050505] px-6 py-2 border border-gold/20 rounded-full">
+              <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-background px-6 py-2 border border-gold/20 rounded-full">
                 <span className="font-serif italic text-gold text-xl md:text-2xl">A Letter for 27</span>
               </div>
               

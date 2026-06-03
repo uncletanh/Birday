@@ -26,7 +26,7 @@ export default function FloatingLanguageSwitcher() {
             initial={{ opacity: 0, y: -10 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -10 }}
-            className="absolute top-14 right-0 bg-[#111827] border border-warm-white/10 rounded overflow-hidden shadow-xl"
+            className="absolute top-14 right-0 bg-background/95 backdrop-blur border border-warm-white/10 rounded overflow-hidden shadow-xl"
           >
             <div className="flex flex-col min-w-[120px]">
               <button 

@@ -1,10 +1,38 @@
 @import "tailwindcss";
 
-:root {
+:root, [data-theme="dark"] {
   --background: #0A1128;
   --foreground: #FDFBF7;
   --gold: #D4AF37;
   --warm-white: #F5F5F5;
+}
+
+[data-theme="magnolia"] {
+  --background: #FFF5F5;
+  --foreground: #2D2424;
+  --gold: #E58A8A;
+  --warm-white: #4A3B3B;
+}
+
+[data-theme="porcelain"] {
+  --background: #F4F7F6;
+  --foreground: #0D1B2A;
+  --gold: #415A77;
+  --warm-white: #1B263B;
+}
+
+[data-theme="autumn"] {
+  --background: #FDF6E3;
+  --foreground: #3E2723;
+  --gold: #D84315;
+  --warm-white: #4E342E;
+}
+
+[data-theme="jade"] {
+  --background: #E8F5E9;
+  --foreground: #1B5E20;
+  --gold: #AFB42B;
+  --warm-white: #2E7D32;
 }
 
 @theme inline {
@@ -12,8 +40,8 @@
   --color-foreground: var(--foreground);
   --color-gold: var(--gold);
   --color-warm-white: var(--warm-white);
-  --font-sans: var(--font-inter);
-  --font-serif: var(--font-playfair);
+  --font-sans: var(--font-lora);
+  --font-serif: var(--font-cormorant);
 }
 
 html {
@@ -53,4 +81,14 @@ body {
 .animate-fade-in {
   animation: fadeIn 0.8s ease-out forwards;
   opacity: 0;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  75% { transform: translateX(5px); }
+}
+
+.animate-shake {
+  animation: shake 0.2s ease-in-out 0s 2;
 }

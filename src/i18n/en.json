@@ -132,8 +132,9 @@
   },
   "closing": {
     "end": "THE END",
-    "message": "Thank you for being a part of this story.",
-    "wishes": "Wishing you a new age full of joy and happiness."
+    "message": "Thank you for being part of this story.",
+    "wishes": "Wishing you joy and happiness in this new chapter of your life.",
+    "openGift": "Open Gift"
   },
   "language": {
     "selectTitle": "Choose your language",
@@ -145,6 +146,14 @@
     "musicTitle": "Would you like some background music?",
     "musicDesc": "The exhibition experience is best enjoyed with music.",
     "musicYes": "Yes, play music",
-    "musicNo": "No, thanks"
+    "musicNo": "No, thanks",
+    "themeTitle": "Select Theme",
+    "themeDesc": "Every color carries a feeling. You can always change it later.",
+    "themeDark": "Original",
+    "themeMagnolia": "Magnolia",
+    "themePorcelain": "Porcelain",
+    "themeAutumn": "Autumn",
+    "themeJade": "Jade",
+    "enterMuseum": "Enter Exhibition"
   }
 }

@@ -55,15 +55,15 @@ export default function ConstellationMap() {
   const [hoveredCity, setHoveredCity] = useState<string | null>(null);
 
   return (
-    <div className="relative w-full aspect-square md:aspect-[16/10] max-w-5xl mx-auto rounded-2xl overflow-hidden bg-gradient-to-b from-[#030303] to-[#0a0a0a] border border-gold/10 shadow-[0_0_50px_rgba(212,175,55,0.05)]">
+    <div className="relative w-full aspect-square md:aspect-[16/10] max-w-5xl mx-auto rounded-2xl overflow-hidden bg-background border border-gold/10 shadow-[0_0_50px_rgba(212,175,55,0.05)]">
       {/* Vignette viền tối để bản đồ chìm vào bóng đêm ở các góc */}
-      <div className="absolute inset-0 shadow-[inset_0_0_120px_rgba(0,0,0,1)] pointer-events-none z-10" />
+      <div className="absolute inset-0 shadow-[inset_0_0_120px_var(--color-background)] pointer-events-none z-10" />
       
       {/* Legend / Thông tin hành trình hiển thị dạng overlay */}
       <div className="absolute top-6 left-6 md:top-10 md:left-10 z-20 pointer-events-none">
          <div className="flex flex-col gap-1 text-gold/80 font-serif">
             <span className="text-[10px] md:text-xs tracking-[0.3em] uppercase opacity-70">The Journey</span>
-            <span className="text-xl md:text-3xl font-bold tracking-widest text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">2024 - 2026</span>
+            <span className="text-xl md:text-3xl font-bold tracking-widest text-foreground drop-shadow-sm">2024 - 2026</span>
             <div className="flex items-center gap-2 mt-1">
               <div className="w-8 h-[1px] bg-gold/40"></div>
               <span className="text-xs md:text-sm tracking-wider opacity-90 text-warm-white">12 Cities • Thousand miles</span>
@@ -116,9 +116,9 @@ export default function ConstellationMap() {
               y={city.dy}
               textAnchor={city.dx > 0 ? "start" : city.dx < 0 ? "end" : "middle"}
               alignmentBaseline="middle"
-              fill="rgba(255,255,255,0.15)"
+              fill="var(--color-warm-white)"
               fontSize={10}
-              fontFamily="sans-serif"
+              fontFamily="var(--font-sans)"
               style={{ pointerEvents: "none" }}
             >
               {city.name}
@@ -163,7 +163,7 @@ export default function ConstellationMap() {
             >
               <Marker coordinates={city.coords}>
                 {/* Điểm tâm phát sáng */}
-                <circle r={isHovered || isSuzhou ? 5 : 2.5} fill={isHovered ? "#fff" : isSuzhou ? "#D4AF37" : "#D4AF37"} />
+                <circle r={isHovered || isSuzhou ? 5 : 2.5} fill={isHovered ? "var(--color-foreground)" : isSuzhou ? "var(--color-gold)" : "var(--color-gold)"} />
                 <circle r={isSuzhou ? 12 : 10} fill="rgba(212,175,55,0.3)" className="animate-pulse" />
                 
                 {/* Tô Châu luôn có quầng sáng lan tỏa (ping) */}
@@ -187,12 +187,12 @@ export default function ConstellationMap() {
                   y={0}
                   textAnchor={city.dx > 0 ? "start" : "end"}
                   alignmentBaseline="middle"
-                  fill={isHovered ? "#fff" : isSuzhou ? "#D4AF37" : "rgba(255,255,255,0.8)"}
+                  fill={isHovered ? "var(--color-foreground)" : isSuzhou ? "var(--color-gold)" : "var(--color-warm-white)"}
                   fontSize={isHovered ? 15 : isSuzhou ? 14 : 12}
-                  fontFamily="sans-serif"
+                  fontFamily="var(--font-sans)"
                   fontWeight={isHovered || isSuzhou ? "600" : "400"}
                   letterSpacing="0.05em"
-                  style={{ textShadow: "0px 2px 4px rgba(0,0,0,0.8)", transition: "all 0.3s ease" }}
+                  style={{ textShadow: "0px 1px 2px var(--color-background)", transition: "all 0.3s ease" }}
                 >
                   {isSuzhou ? `✦ ${city.name}` : city.name}
                 </text>

@@ -7,7 +7,7 @@ import dynamic from "next/dynamic";
 const ConstellationMap = dynamic(() => import("@/components/ui/ConstellationMap"), {
   ssr: false,
   loading: () => (
-    <div className="w-full aspect-square md:aspect-[16/10] bg-[#030303] rounded-2xl border border-gold/10 flex items-center justify-center">
+    <div className="w-full aspect-square md:aspect-[16/10] bg-background/80 backdrop-blur-md rounded-2xl border border-gold/10 flex items-center justify-center">
       <span className="text-gold/30 tracking-widest text-sm uppercase animate-pulse">Initializing Map...</span>
     </div>
   )
@@ -17,7 +17,7 @@ export default function Footprints() {
   const { t } = useLanguage();
 
   return (
-    <section className="min-h-screen w-full py-24 px-6 bg-[#050505] relative overflow-hidden flex flex-col justify-center">
+    <section className="min-h-screen w-full py-24 px-6 bg-background relative overflow-hidden flex flex-col justify-center">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(212,175,55,0.03)_0%,transparent_70%)]" />
       
       <div className="max-w-6xl mx-auto w-full relative z-10">

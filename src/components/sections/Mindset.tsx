@@ -15,7 +15,7 @@ export default function Mindset() {
   ];
 
   return (
-    <section className="min-h-screen w-full py-24 px-6 bg-black relative flex flex-col justify-center overflow-hidden">
+    <section className="min-h-screen w-full py-24 px-6 bg-background relative flex flex-col justify-center overflow-hidden">
       <div className="max-w-4xl mx-auto w-full relative z-10">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
