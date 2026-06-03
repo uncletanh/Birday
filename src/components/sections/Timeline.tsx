@@ -73,7 +73,7 @@ export default function Timeline() {
           <motion.div
             initial={{ opacity: 0, scale: 0.95, y: 20 }}
             animate={{ opacity: 1, scale: 1, y: 0 }}
-            className="relative bg-[#111827] border border-warm-white/10 p-8 md:p-12 max-w-2xl w-full max-h-[80vh] overflow-y-auto rounded-lg z-10"
+            className="relative bg-background border border-gold/30 shadow-[0_0_40px_rgba(212,175,55,0.1)] p-8 md:p-12 max-w-2xl w-full max-h-[80vh] overflow-y-auto rounded-xl z-10"
           >
             <button 
               onClick={() => setSelected(null)}
